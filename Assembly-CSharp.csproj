@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{47AA9C18-5C0D-6CBA-E448-04017C163D0B}</ProjectGuid>
+    <ProjectGuid>{17E1688D-CED1-EA3C-F413-97E18E56D85E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -62,7 +62,9 @@
      <Compile Include="Assets\Lowpoly Toon Cat Lite\Demo\Cat_Lite_Demo.cs" />
      <Compile Include="Assets\Mousepad test.cs" />
      <Compile Include="Assets\ObjectBehavior.cs" />
+     <Compile Include="Assets\ObjectRealisticFall.cs" />
      <Compile Include="Assets\OldRadio\Okean\CamRotat.cs" />
+     <Compile Include="Assets\PainScript.cs" />
      <Compile Include="Assets\PlayerBehavior.cs" />
      <Compile Include="Assets\RadioManager.cs" />
      <Compile Include="Assets\SkyboxManager.cs" />
@@ -169,6 +171,7 @@
      <Compile Include="Assets\SteamVR\Scripts\SteamVR_UpdatePoses.cs" />
      <Compile Include="Assets\SteamVR\Scripts\SteamVR_Utils.cs" />
      <Compile Include="Assets\SteamVR\SteamVR_FirstPersonController.cs" />
+     <Compile Include="Assets\StethescopeBehavior.cs" />
      <Compile Include="Assets\Vive-Teleporter\Scripts\BorderRenderer.cs" />
      <Compile Include="Assets\Vive-Teleporter\Scripts\ParabolicPointer.cs" />
      <Compile Include="Assets\Vive-Teleporter\Scripts\TeleportTest.cs" />
@@ -429,6 +432,7 @@
      <Compile Include="Assets\VRTK\SDK\Ximmerse\SDK_XimmerseDefines.cs" />
      <Compile Include="Assets\VRTK\SDK\Ximmerse\SDK_XimmerseHeadset.cs" />
      <Compile Include="Assets\VRTK\SDK\Ximmerse\SDK_XimmerseSystem.cs" />
+     <Compile Include="Assets\Waypoint.cs" />
      <None Include="Assets\SteamVR\Resources\SteamVR_Fade.shader" />
      <None Include="Assets\SteamVR\Resources\SteamVR_ClearAll.shader" />
      <None Include="Assets\SteamVR\InteractionSystem\Hints\Shaders\ControllerButtonHints.shader" />
